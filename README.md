@@ -13,7 +13,7 @@ Below are example images for each category of visual distortion. These images re
 <div align="center">
   <div>
     <img src="images/original.png" width="300" />
-    <p>Raindrop20</p>
+    <p>Original</p>
   </div>
 </div>
 
