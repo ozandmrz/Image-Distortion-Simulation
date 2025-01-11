@@ -8,6 +8,14 @@ This project simulates common visual distortions, such as **Raindrop**, **Mud**,
 ## Example Images
 
 Below are example images for each category of visual distortion. These images represent the effects of each distortion type and are used to test how SLAM algorithms perform under such conditions.
+### Original Image
+
+<div align="center">
+  <div>
+    <img src="images/original.png" width="300" />
+    <p>Raindrop20</p>
+  </div>
+</div>
 
 ### Raindrop Category
 
